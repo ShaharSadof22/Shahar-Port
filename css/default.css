@@ -1975,6 +1975,9 @@ TESTIMONIALS
   line-height: 1.6;
 }
 
+.flex{
+  display:flex;
+}
 /*
 CONTACT
 */
@@ -1990,11 +1993,52 @@ CONTACT
 /*
 FOOTER
 */
+.icons-details-footer{
+  width: 425px;
+  padding-top: 77px;
+  margin-left: 128px;
+}
+.contact-details-footer{
+  width: 400px;
+  text-align: left;
+  padding: 51px 0px 0 89px;
+}
+.contact-details-footer h4{
+  color:#fff;
+}
+
+@media screen and (max-width:725px){
+  .contact-details-footer{
+    margin: 0 auto;
+  }
+  .icons-details-footer{
+    width: unset;
+    padding-top: 0;
+    margin-left: 0;
+  }
+}
+
+.skills-wrapper{
+  width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 38px;
+    justify-content: center;
+}
+
+
 
 footer {
   text-align: center;
   color: #fff;
   padding-bottom: 4rem;
+  display:flex;
+  justify-content:center;
+}
+@media screen and (max-width:725px){
+  footer {
+    flex-direction: column;
+  }
 }
 
 footer .copyright {
