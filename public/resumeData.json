@@ -20,33 +20,23 @@
     "social": [
       {
         "name": "facebook",
-        "url": "https://github.com/nordicgiant2/react-nice-resume",
+        "url": "https://www.facebook.com/shahar.sadof/",
         "className": "fa fa-facebook"
       },
       {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/shahar-sadof-a5877b148/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "https://github.com/nordicgiant2/react-nice-resume",
+        "url": "https://github.com/ShaharSadof22",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over.",
     "education": [
       {
         "school": "Bootcamp – Coding Academy",
@@ -82,27 +72,27 @@
       },
       {
         "name": "MongoDB",
-        "description": "I have used many different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with",
+        "description": "In the context of MongoDB, for many applications, the ease of use of MongoDB better suits my needs and it is enjoyable to work with",
         "imgUrl": "https://res.cloudinary.com/cloudinary-img/image/upload/v1602332141/Shahar%20Sadof%20Dev%20-%20Portfolio/mongodb_sug90z.png"
       },
       {
         "name": "Python",
-        "description": "Python was my first programming language that I started using in college. It is by far the language I am most familiar with in terms of data-structure and algorithm programming.",
+        "description": "Python was the first programming language that I started using in college. It is a language I am familiar with in terms of data-structure, algorithm programming, and machine learning.",
         "imgUrl": "https://res.cloudinary.com/cloudinary-img/image/upload/v1602348407/Shahar%20Sadof%20Dev%20-%20Portfolio/Python_ceridy.png"
       },
       {
         "name": "Vue",
-        "description": "I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects.",
+        "description": "Vue was the second framework I started to work with. The learning curve in this framework is amazing and just after a few days, I could build an end-2-end application. For sure, Vue is a wonderful framework to work with.",
         "imgUrl": "https://res.cloudinary.com/cloudinary-img/image/upload/v1602348407/Shahar%20Sadof%20Dev%20-%20Portfolio/vue_t0kitl.png"
       },
       {
         "name": "Angular",
-        "description": "I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects.",
+        "description": "ffff ffff fff fff fff f fff ff f ff ffffff d.",
         "imgUrl": "https://res.cloudinary.com/cloudinary-img/image/upload/v1602348407/Shahar%20Sadof%20Dev%20-%20Portfolio/angular_gz3ngr.png"
       },
       {
         "name": "Express",
-        "description": "I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects.",
+        "description": "As Express writes in their documentation - Fast, opinionated, minimalist web framework for Node.js. For a Node developer, Express is a helpful framework.",
         "imgUrl": "https://res.cloudinary.com/cloudinary-img/image/upload/v1602350227/Shahar%20Sadof%20Dev%20-%20Portfolio/eexpress_c5bjcm.png"
       }
     ]
