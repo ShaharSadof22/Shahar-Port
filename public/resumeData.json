@@ -1,0 +1,146 @@
+{
+  "main": {
+    "name": "Nordic-Giant Project",
+    "description": "I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "image": "profilepic.jpg",
+    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "youremailhere@gmail.com",
+    "phone": "555-555-5555",
+    "github": "https://github.com/nordicgiant2/react-nice-resume",
+    "project": "https://github.com/nordicgiant2/react-nice-resume",
+    "address": {
+      "street": "(Your Street)",
+      "city": "(Your City)",
+      "state": "(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://github.com/nordicgiant2/react-nice-resume",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/tbaker_x",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/nordicgiant2/react-nice-resume",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Bootcamp – Coding Academy",
+        "degree": "Full Stack/Front End Developer",
+        "graduated": "October 2020",
+        "description": "An intensive coding bootcamp (640 hours) that qualifies Full stack developers. Built several projects, all code is available on Github for code review. "
+      },
+      {
+        "school": "Afeka college of engineering",
+        "degree": "B.Sc. Mechanical engineer.",
+        "graduated": "July 2020",
+        "description": "Specializes in robotics and automation. Average of 86. Specializing in the field of Robotics and Mechanical design. Member of the college's Robotics club, building project with working with Arduino"
+      }
+    ],
+    "work": [
+      {
+        "company": "Kornit Digital",
+        "title": "QA System Engineer ",
+        "years": "2019 - 2020",
+        "description": "As a QA System, my role was to verify the new versions of the machine program. By reaching endpoints and complex management of the program, I could find bugs in the software and help the software team develop better versions for the products."
+      }
+    ],
+    "skills": [
+      {
+        "name": "React Js",
+        "description": "React was my first framework. It has grown on me though and I will continue to use it going forward. I have built many ReactJS based website and I'm sure that for now, React is my favorite (this personal site based on React).",
+        "imgUrl": "https://res.cloudinary.com/cloudinary-img/image/upload/v1602332141/Shahar%20Sadof%20Dev%20-%20Portfolio/React_cozof3.png"
+      },
+      {
+        "name": "Node JS",
+        "description": "Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in almost all of my end-2-end projects",
+        "imgUrl": "https://res.cloudinary.com/cloudinary-img/image/upload/v1602332141/Shahar%20Sadof%20Dev%20-%20Portfolio/node_p0txeo.png"
+      },
+      {
+        "name": "MongoDB",
+        "description": "I have used many different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with",
+        "imgUrl": "https://res.cloudinary.com/cloudinary-img/image/upload/v1602332141/Shahar%20Sadof%20Dev%20-%20Portfolio/mongodb_sug90z.png"
+      },
+      {
+        "name": "Python",
+        "description": "Python was my first programming language that I started using in college. It is by far the language I am most familiar with in terms of data-structure and algorithm programming.",
+        "imgUrl": "https://res.cloudinary.com/cloudinary-img/image/upload/v1602348407/Shahar%20Sadof%20Dev%20-%20Portfolio/Python_ceridy.png"
+      },
+      {
+        "name": "Vue",
+        "description": "I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects.",
+        "imgUrl": "https://res.cloudinary.com/cloudinary-img/image/upload/v1602348407/Shahar%20Sadof%20Dev%20-%20Portfolio/vue_t0kitl.png"
+      },
+      {
+        "name": "Angular",
+        "description": "I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects.",
+        "imgUrl": "https://res.cloudinary.com/cloudinary-img/image/upload/v1602348407/Shahar%20Sadof%20Dev%20-%20Portfolio/angular_gz3ngr.png"
+      },
+      {
+        "name": "Express",
+        "description": "I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects.",
+        "imgUrl": "https://res.cloudinary.com/cloudinary-img/image/upload/v1602350227/Shahar%20Sadof%20Dev%20-%20Portfolio/eexpress_c5bjcm.png"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  }
+}
+
+
