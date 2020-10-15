@@ -824,7 +824,7 @@ properly.
 
 @media screen and (max-width:700px){
   .address{
-    text-align: center;
+    /* text-align: center; */
   }
 }
 /* skills */
@@ -864,7 +864,7 @@ img.skill{
   margin: 17px;
   background-color: rgb(255, 255, 255);
   text-align: left;
-  width: 246px;
+  width: 286px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -998,6 +998,7 @@ img.skill{
    padding-left: 15px;
    margin-right: auto;
    margin-left: auto;
+   max-width: 1020px;
  }
  
 @media (min-width: 576px) {
@@ -2019,7 +2020,7 @@ FOOTER
   margin-left: 128px;
 }
 .contact-details-footer{
-  width: 400px;
+  max-width: 400px;
   text-align: left;
   padding: 51px 0px 0 89px;
 }
@@ -2030,6 +2031,7 @@ FOOTER
 @media screen and (max-width:725px){
   .contact-details-footer{
     margin: 0 auto;
+    padding: 0px;
   }
   .icons-details-footer{
     width: unset;

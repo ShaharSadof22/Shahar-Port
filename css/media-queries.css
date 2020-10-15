@@ -116,14 +116,12 @@
 		position: relative;
       border: none;
       float: right;
-
       font: 0/0 a;
       text-shadow: none;
       color: transparent;
-
       position: relative;
       top: 0px;
-      right: 26px;
+      right: 0;
    }
 
 	#nav-wrap > a:before,

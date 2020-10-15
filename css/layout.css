@@ -121,6 +121,11 @@ ul#nav li.current a { color: #fe6928; }
    color: #fff;
    margin-bottom: 12px;
 }
+@media screen and (max-width:700px){
+   #about h2 {
+      margin-left: 20px;
+   }
+}
 #about p {
    line-height: 30px;
    color: rgb(255, 255, 255);
@@ -871,7 +876,7 @@ footer {
    position: relative;
 }
 
-footer a, footer a:visited { color: #525252; }
+footer a, footer a:visited { color: #cfcfcf; }
 footer a:hover, footer a:focus { color: #fff; }
 
 /* copyright */
