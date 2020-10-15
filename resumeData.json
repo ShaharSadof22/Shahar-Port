@@ -2,7 +2,7 @@
   "main": {
     "name": "Nordic-Giant Project",
     "description": "I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
-    "image": "profilepic.jpg",
+    "image": "https://res.cloudinary.com/cloudinary-img/image/upload/v1602783453/Shahar%20Sadof%20Dev%20-%20Portfolio/MyImgPNG_j4dm8u.png",
     "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "youremailhere@gmail.com",
@@ -87,7 +87,7 @@
       },
       {
         "name": "Angular",
-        "description": "ffff ffff fff fff fff f fff ff f ff ffffff d.",
+        "description": "Learning Angular was a long time relationship, it is easy to feel the way this framework is intended to take part in large applications. Powerful tool",
         "imgUrl": "https://res.cloudinary.com/cloudinary-img/image/upload/v1602348407/Shahar%20Sadof%20Dev%20-%20Portfolio/angular_gz3ngr.png"
       },
       {

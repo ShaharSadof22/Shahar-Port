@@ -147,6 +147,11 @@ html {
    -webkit-font-smoothing: antialiased;
 }
 
+@font-face {
+  font-family: 'sansita-swashed';
+  src: url('fonts/SansitaSwashed/SansitaSwashed-Regular.ttf');
+}
+
 body {
    background: #fff;
    font-family: 'opensans-regular', sans-serif;
@@ -812,6 +817,16 @@ properly.
 
 /* mine css */
 
+
+.address{
+  color: rgb(255 255 255 / 68%);
+}
+
+@media screen and (max-width:700px){
+  .address{
+    text-align: center;
+  }
+}
 /* skills */
 
 .columns {
@@ -916,7 +931,7 @@ img.skill{
   font-size: 2.6rem;
 }
 .more-proj{
-  padding-top: 28px;
+  padding: 89px 0 41px;
 }
 
   .project-wrapper-mobile{
@@ -1798,11 +1813,16 @@ INTRO
   width: 100%;
   opacity: .9;
 }
-
+/* ///////// */
 .intro .intro-title {
   color: #fff;
-  font-weight: 600;
+  font-weight: 100;
   font-size: 3rem;
+  font-family: sansita-swashed;
+}
+
+.intro .intro-title span{
+  color: #fe6928;
 }
 
 .intro .intro-subtitle {
@@ -2252,4 +2272,16 @@ BUTTON
 ::-webkit-scrollbar-thumb:vertical {
     background: #02AFB0;
     border-radius: 100px;
+}
+@media screen and (max-width:725px){
+  ::-webkit-scrollbar {
+    width:7px;
+    background-color: rgba(0, 0, 0, 0.171);
+  }
+}
+@media screen and (max-width:525px){
+  ::-webkit-scrollbar {
+    width:5px;
+    background-color: rgba(0, 0, 0, 0.089);
+  }
 }

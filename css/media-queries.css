@@ -123,7 +123,7 @@
 
       position: relative;
       top: 0px;
-      right: 0px;
+      right: 26px;
    }
 
 	#nav-wrap > a:before,
@@ -215,7 +215,9 @@
 
    /* About Section
    -------------------------------------------------------------------- */
-   #about .profile-pic { display: none; }
+   #about .profile-pic { 
+      margin: 0px 105px 50px;
+   }
    #about .download .button {
       width: 100%;
       text-align: center;
